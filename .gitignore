@@ -1,0 +1,5 @@
+*.exe
+*.db
+*.jar
+__pycache__/
+venv/
